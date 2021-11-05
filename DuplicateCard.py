@@ -1,0 +1,2 @@
+class DuplicateCard(Exception):
+    pass

@@ -1,0 +1,3 @@
+
+class InvalidHand(Exception):
+    pass
